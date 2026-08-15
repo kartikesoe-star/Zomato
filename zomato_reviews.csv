@@ -1,0 +1,451 @@
+review_id,user_id,restaurant_id,order_id,rating,review_text
+REV_00001,USR_0089,RES_041,ORD_000234,5,Super fast delivery and delicious taste.
+REV_00002,USR_0242,RES_037,ORD_001374,4,Very satisfying experience overall.
+REV_00003,USR_0075,RES_028,ORD_000825,3,Slightly overpriced for the quantity.
+REV_00004,USR_0026,RES_027,ORD_001036,5,Best meal of the week!
+REV_00005,USR_0170,RES_026,ORD_001152,5,Absolutely loved the packaging and taste.
+REV_00006,USR_0177,RES_043,ORD_001240,5,Absolutely loved the packaging and taste.
+REV_00007,USR_0160,RES_026,ORD_001253,5,Amazing food! Highly recommended.
+REV_00008,USR_0145,RES_043,ORD_000417,1,Complete waste of money.
+REV_00009,USR_0168,RES_001,ORD_000946,3,"Average taste, could be better."
+REV_00010,USR_0017,RES_028,ORD_000256,2,Food was cold and bland.
+REV_00011,USR_0069,RES_011,ORD_000826,4,"Solid packaging, arrived hot."
+REV_00012,USR_0216,RES_040,ORD_001020,4,"Good portion size, food was tasty."
+REV_00013,USR_0089,RES_018,ORD_000553,4,"Good portion size, food was tasty."
+REV_00014,USR_0071,RES_041,ORD_000136,5,Amazing food! Highly recommended.
+REV_00015,USR_0138,RES_021,ORD_000804,1,"Never ordering from here again, missing items."
+REV_00016,USR_0067,RES_028,ORD_000383,3,"Average taste, could be better."
+REV_00017,USR_0225,RES_040,ORD_001145,5,Super fast delivery and delicious taste.
+REV_00018,USR_0210,RES_009,ORD_001000,1,Stale food delivered.
+REV_00019,USR_0066,RES_008,ORD_000099,3,Food was okay but delivery took too long.
+REV_00020,USR_0171,RES_024,ORD_000924,3,Slightly overpriced for the quantity.
+REV_00021,USR_0171,RES_024,ORD_001109,5,Best meal of the week!
+REV_00022,USR_0019,RES_010,ORD_000131,4,"Good portion size, food was tasty."
+REV_00023,USR_0094,RES_032,ORD_000205,4,"Good portion size, food was tasty."
+REV_00024,USR_0244,RES_035,ORD_001381,5,Super fast delivery and delicious taste.
+REV_00025,USR_0195,RES_035,ORD_000673,4,"Solid packaging, arrived hot."
+REV_00026,USR_0137,RES_023,ORD_000731,5,Amazing food! Highly recommended.
+REV_00027,USR_0152,RES_018,ORD_000505,5,Amazing food! Highly recommended.
+REV_00028,USR_0165,RES_044,ORD_000936,4,"Solid packaging, arrived hot."
+REV_00029,USR_0017,RES_028,ORD_000006,5,Best meal of the week!
+REV_00030,USR_0095,RES_049,ORD_001077,3,Food was okay but delivery took too long.
+REV_00031,USR_0222,RES_030,ORD_001389,5,Absolutely loved the packaging and taste.
+REV_00032,USR_0012,RES_050,ORD_000247,4,"Good portion size, food was tasty."
+REV_00033,USR_0144,RES_011,ORD_001371,4,"Solid packaging, arrived hot."
+REV_00034,USR_0082,RES_025,ORD_000558,5,Amazing food! Highly recommended.
+REV_00035,USR_0186,RES_041,ORD_000661,5,Amazing food! Highly recommended.
+REV_00036,USR_0176,RES_045,ORD_000898,5,Absolutely loved the packaging and taste.
+REV_00037,USR_0090,RES_033,ORD_000259,2,"Extremely late delivery, ruined the mood."
+REV_00038,USR_0041,RES_024,ORD_000056,5,Amazing food! Highly recommended.
+REV_00039,USR_0006,RES_005,ORD_000840,5,Super fast delivery and delicious taste.
+REV_00040,USR_0056,RES_002,ORD_000079,3,Food was okay but delivery took too long.
+REV_00041,USR_0050,RES_003,ORD_000095,4,Very satisfying experience overall.
+REV_00042,USR_0234,RES_042,ORD_001270,2,"Extremely late delivery, ruined the mood."
+REV_00043,USR_0033,RES_049,ORD_000752,5,Absolutely loved the packaging and taste.
+REV_00044,USR_0186,RES_032,ORD_000901,4,"Good portion size, food was tasty."
+REV_00045,USR_0048,RES_020,ORD_000046,4,Very satisfying experience overall.
+REV_00046,USR_0215,RES_031,ORD_001165,4,"Good portion size, food was tasty."
+REV_00047,USR_0131,RES_027,ORD_001247,5,Amazing food! Highly recommended.
+REV_00048,USR_0104,RES_012,ORD_000679,5,Super fast delivery and delicious taste.
+REV_00049,USR_0014,RES_014,ORD_000036,5,Absolutely loved the packaging and taste.
+REV_00050,USR_0143,RES_038,ORD_001030,4,"Really liked the flavours, will order again."
+REV_00051,USR_0098,RES_037,ORD_000467,3,Food was okay but delivery took too long.
+REV_00052,USR_0056,RES_019,ORD_000209,5,Super fast delivery and delicious taste.
+REV_00053,USR_0005,RES_022,ORD_000161,3,Slightly overpriced for the quantity.
+REV_00054,USR_0098,RES_030,ORD_001146,1,Complete waste of money.
+REV_00055,USR_0242,RES_001,ORD_001452,5,Absolutely loved the packaging and taste.
+REV_00056,USR_0182,RES_025,ORD_000812,1,Stale food delivered.
+REV_00057,USR_0193,RES_021,ORD_001372,4,"Really liked the flavours, will order again."
+REV_00058,USR_0009,RES_017,ORD_000216,5,Absolutely loved the packaging and taste.
+REV_00059,USR_0144,RES_032,ORD_000964,5,Best meal of the week!
+REV_00060,USR_0153,RES_034,ORD_000462,3,Slightly overpriced for the quantity.
+REV_00061,USR_0034,RES_038,ORD_000043,1,"Never ordering from here again, missing items."
+REV_00062,USR_0033,RES_012,ORD_000695,4,"Solid packaging, arrived hot."
+REV_00063,USR_0137,RES_036,ORD_000404,5,Amazing food! Highly recommended.
+REV_00064,USR_0053,RES_038,ORD_000219,5,Absolutely loved the packaging and taste.
+REV_00065,USR_0243,RES_037,ORD_001393,4,"Really liked the flavours, will order again."
+REV_00066,USR_0068,RES_046,ORD_000226,3,"Decent experience, nothing extraordinary."
+REV_00067,USR_0019,RES_014,ORD_000129,2,Disappointed with the quality this time.
+REV_00068,USR_0094,RES_032,ORD_001337,4,"Solid packaging, arrived hot."
+REV_00069,USR_0091,RES_009,ORD_000401,2,"Extremely late delivery, ruined the mood."
+REV_00070,USR_0001,RES_034,ORD_001220,4,Very satisfying experience overall.
+REV_00071,USR_0176,RES_006,ORD_000742,5,Best meal of the week!
+REV_00072,USR_0165,RES_043,ORD_001340,5,Absolutely loved the packaging and taste.
+REV_00073,USR_0019,RES_005,ORD_000082,1,Stale food delivered.
+REV_00074,USR_0221,RES_012,ORD_001034,5,Super fast delivery and delicious taste.
+REV_00075,USR_0052,RES_019,ORD_000231,4,"Good portion size, food was tasty."
+REV_00076,USR_0056,RES_007,ORD_001085,4,"Good portion size, food was tasty."
+REV_00077,USR_0191,RES_037,ORD_000756,2,Disappointed with the quality this time.
+REV_00078,USR_0038,RES_040,ORD_000020,4,Very satisfying experience overall.
+REV_00079,USR_0153,RES_042,ORD_000460,3,"Average taste, could be better."
+REV_00080,USR_0080,RES_040,ORD_000237,3,"Average taste, could be better."
+REV_00081,USR_0030,RES_003,ORD_000070,4,Very satisfying experience overall.
+REV_00082,USR_0249,RES_041,ORD_001480,4,"Solid packaging, arrived hot."
+REV_00083,USR_0021,RES_004,ORD_000674,1,Complete waste of money.
+REV_00084,USR_0185,RES_045,ORD_001110,3,"Decent experience, nothing extraordinary."
+REV_00085,USR_0056,RES_005,ORD_000111,5,Amazing food! Highly recommended.
+REV_00086,USR_0115,RES_038,ORD_000906,5,Best meal of the week!
+REV_00087,USR_0012,RES_026,ORD_000264,2,Too oily and spicy to consume.
+REV_00088,USR_0235,RES_007,ORD_001199,5,Amazing food! Highly recommended.
+REV_00089,USR_0160,RES_023,ORD_001093,3,"Decent experience, nothing extraordinary."
+REV_00090,USR_0077,RES_003,ORD_000122,5,Best meal of the week!
+REV_00091,USR_0231,RES_024,ORD_001316,3,Food was okay but delivery took too long.
+REV_00092,USR_0078,RES_028,ORD_000105,5,Absolutely loved the packaging and taste.
+REV_00093,USR_0021,RES_037,ORD_000222,1,Horrible experience. Found a hair in my food!
+REV_00094,USR_0056,RES_002,ORD_000140,5,Super fast delivery and delicious taste.
+REV_00095,USR_0042,RES_022,ORD_001255,5,Absolutely loved the packaging and taste.
+REV_00096,USR_0006,RES_007,ORD_000238,5,Best meal of the week!
+REV_00097,USR_0124,RES_048,ORD_001430,4,Very satisfying experience overall.
+REV_00098,USR_0241,RES_008,ORD_001373,5,Super fast delivery and delicious taste.
+REV_00099,USR_0128,RES_029,ORD_000689,4,"Really liked the flavours, will order again."
+REV_00100,USR_0129,RES_050,ORD_001041,5,Super fast delivery and delicious taste.
+REV_00101,USR_0035,RES_013,ORD_000432,3,Food was okay but delivery took too long.
+REV_00102,USR_0132,RES_007,ORD_001003,5,Super fast delivery and delicious taste.
+REV_00103,USR_0195,RES_010,ORD_000965,2,"Extremely late delivery, ruined the mood."
+REV_00104,USR_0107,RES_043,ORD_000444,5,Amazing food! Highly recommended.
+REV_00105,USR_0096,RES_010,ORD_000561,1,Stale food delivered.
+REV_00106,USR_0061,RES_010,ORD_000162,4,Very satisfying experience overall.
+REV_00107,USR_0066,RES_034,ORD_000984,5,Absolutely loved the packaging and taste.
+REV_00108,USR_0107,RES_009,ORD_000344,4,"Good portion size, food was tasty."
+REV_00109,USR_0017,RES_036,ORD_000138,2,"Extremely late delivery, ruined the mood."
+REV_00110,USR_0170,RES_031,ORD_000841,4,Very satisfying experience overall.
+REV_00111,USR_0109,RES_019,ORD_000415,5,Absolutely loved the packaging and taste.
+REV_00112,USR_0065,RES_029,ORD_000201,4,"Good portion size, food was tasty."
+REV_00113,USR_0118,RES_040,ORD_000881,2,Disappointed with the quality this time.
+REV_00114,USR_0091,RES_045,ORD_000178,5,Absolutely loved the packaging and taste.
+REV_00115,USR_0119,RES_025,ORD_000931,4,"Solid packaging, arrived hot."
+REV_00116,USR_0105,RES_026,ORD_000193,5,Super fast delivery and delicious taste.
+REV_00117,USR_0085,RES_014,ORD_000532,5,Amazing food! Highly recommended.
+REV_00118,USR_0218,RES_046,ORD_001177,1,"Never ordering from here again, missing items."
+REV_00119,USR_0041,RES_013,ORD_000577,1,Complete waste of money.
+REV_00120,USR_0209,RES_050,ORD_000908,1,"Never ordering from here again, missing items."
+REV_00121,USR_0004,RES_003,ORD_000601,5,Best meal of the week!
+REV_00122,USR_0085,RES_016,ORD_000865,5,Amazing food! Highly recommended.
+REV_00123,USR_0246,RES_032,ORD_001429,5,Absolutely loved the packaging and taste.
+REV_00124,USR_0018,RES_012,ORD_000060,3,"Decent experience, nothing extraordinary."
+REV_00125,USR_0029,RES_007,ORD_000541,3,Food was okay but delivery took too long.
+REV_00126,USR_0219,RES_031,ORD_001317,5,Super fast delivery and delicious taste.
+REV_00127,USR_0033,RES_042,ORD_000536,1,Horrible experience. Found a hair in my food!
+REV_00128,USR_0203,RES_024,ORD_001326,3,Food was okay but delivery took too long.
+REV_00129,USR_0224,RES_031,ORD_001252,2,Too oily and spicy to consume.
+REV_00130,USR_0084,RES_031,ORD_000125,3,Slightly overpriced for the quantity.
+REV_00131,USR_0210,RES_040,ORD_001078,4,"Good portion size, food was tasty."
+REV_00132,USR_0096,RES_048,ORD_000361,1,Horrible experience. Found a hair in my food!
+REV_00133,USR_0105,RES_031,ORD_000403,5,Amazing food! Highly recommended.
+REV_00134,USR_0045,RES_016,ORD_000069,3,"Average taste, could be better."
+REV_00135,USR_0210,RES_023,ORD_001138,2,Too oily and spicy to consume.
+REV_00136,USR_0114,RES_002,ORD_001155,5,Absolutely loved the packaging and taste.
+REV_00137,USR_0174,RES_013,ORD_000712,5,Amazing food! Highly recommended.
+REV_00138,USR_0177,RES_022,ORD_000788,4,"Solid packaging, arrived hot."
+REV_00139,USR_0212,RES_003,ORD_001154,3,Slightly overpriced for the quantity.
+REV_00140,USR_0069,RES_015,ORD_000730,5,Absolutely loved the packaging and taste.
+REV_00141,USR_0060,RES_043,ORD_000910,5,Amazing food! Highly recommended.
+REV_00142,USR_0199,RES_049,ORD_000861,4,Very satisfying experience overall.
+REV_00143,USR_0092,RES_038,ORD_001112,3,"Average taste, could be better."
+REV_00144,USR_0159,RES_048,ORD_001147,5,Amazing food! Highly recommended.
+REV_00145,USR_0030,RES_003,ORD_000551,4,"Solid packaging, arrived hot."
+REV_00146,USR_0135,RES_027,ORD_000966,4,"Good portion size, food was tasty."
+REV_00147,USR_0181,RES_036,ORD_000595,5,Amazing food! Highly recommended.
+REV_00148,USR_0151,RES_050,ORD_000535,4,"Really liked the flavours, will order again."
+REV_00149,USR_0201,RES_050,ORD_000917,2,Disappointed with the quality this time.
+REV_00150,USR_0197,RES_004,ORD_001291,4,"Solid packaging, arrived hot."
+REV_00151,USR_0029,RES_046,ORD_000767,5,Absolutely loved the packaging and taste.
+REV_00152,USR_0101,RES_012,ORD_000388,3,Slightly overpriced for the quantity.
+REV_00153,USR_0101,RES_003,ORD_000745,5,Super fast delivery and delicious taste.
+REV_00154,USR_0049,RES_045,ORD_000167,3,"Average taste, could be better."
+REV_00155,USR_0168,RES_012,ORD_001246,5,Absolutely loved the packaging and taste.
+REV_00156,USR_0179,RES_005,ORD_001333,4,"Solid packaging, arrived hot."
+REV_00157,USR_0150,RES_030,ORD_000469,5,Super fast delivery and delicious taste.
+REV_00158,USR_0215,RES_017,ORD_000968,5,Best meal of the week!
+REV_00159,USR_0214,RES_012,ORD_001181,4,"Solid packaging, arrived hot."
+REV_00160,USR_0090,RES_016,ORD_000369,5,Amazing food! Highly recommended.
+REV_00161,USR_0226,RES_012,ORD_001137,4,"Really liked the flavours, will order again."
+REV_00162,USR_0229,RES_006,ORD_001232,5,Amazing food! Highly recommended.
+REV_00163,USR_0121,RES_031,ORD_000336,4,"Really liked the flavours, will order again."
+REV_00164,USR_0060,RES_008,ORD_000480,1,"Never ordering from here again, missing items."
+REV_00165,USR_0130,RES_022,ORD_001040,3,"Decent experience, nothing extraordinary."
+REV_00166,USR_0189,RES_018,ORD_001473,5,Absolutely loved the packaging and taste.
+REV_00167,USR_0099,RES_050,ORD_000223,4,Very satisfying experience overall.
+REV_00168,USR_0194,RES_046,ORD_000837,4,"Solid packaging, arrived hot."
+REV_00169,USR_0149,RES_030,ORD_000693,2,"Extremely late delivery, ruined the mood."
+REV_00170,USR_0024,RES_002,ORD_001222,4,Very satisfying experience overall.
+REV_00171,USR_0172,RES_027,ORD_000786,5,Amazing food! Highly recommended.
+REV_00172,USR_0182,RES_039,ORD_000680,4,"Good portion size, food was tasty."
+REV_00173,USR_0135,RES_023,ORD_000902,4,"Good portion size, food was tasty."
+REV_00174,USR_0030,RES_012,ORD_000446,4,"Really liked the flavours, will order again."
+REV_00175,USR_0162,RES_022,ORD_000455,4,"Really liked the flavours, will order again."
+REV_00176,USR_0202,RES_006,ORD_000986,5,Best meal of the week!
+REV_00177,USR_0225,RES_046,ORD_001311,3,Slightly overpriced for the quantity.
+REV_00178,USR_0112,RES_001,ORD_000916,5,Super fast delivery and delicious taste.
+REV_00179,USR_0121,RES_031,ORD_000255,3,"Average taste, could be better."
+REV_00180,USR_0087,RES_013,ORD_001174,5,Amazing food! Highly recommended.
+REV_00181,USR_0174,RES_043,ORD_000800,5,Amazing food! Highly recommended.
+REV_00182,USR_0035,RES_050,ORD_000147,5,Absolutely loved the packaging and taste.
+REV_00183,USR_0030,RES_042,ORD_001396,5,Best meal of the week!
+REV_00184,USR_0139,RES_004,ORD_001068,5,Amazing food! Highly recommended.
+REV_00185,USR_0166,RES_026,ORD_001115,5,Best meal of the week!
+REV_00186,USR_0202,RES_015,ORD_001122,5,Best meal of the week!
+REV_00187,USR_0164,RES_016,ORD_000520,3,"Decent experience, nothing extraordinary."
+REV_00188,USR_0149,RES_048,ORD_000668,3,Food was okay but delivery took too long.
+REV_00189,USR_0155,RES_009,ORD_000827,5,Amazing food! Highly recommended.
+REV_00190,USR_0092,RES_038,ORD_000261,5,Best meal of the week!
+REV_00191,USR_0233,RES_019,ORD_001386,2,Food was cold and bland.
+REV_00192,USR_0006,RES_019,ORD_000896,3,Food was okay but delivery took too long.
+REV_00193,USR_0033,RES_001,ORD_001237,5,Amazing food! Highly recommended.
+REV_00194,USR_0173,RES_048,ORD_001082,5,Super fast delivery and delicious taste.
+REV_00195,USR_0215,RES_026,ORD_001209,5,Super fast delivery and delicious taste.
+REV_00196,USR_0016,RES_023,ORD_000005,5,Best meal of the week!
+REV_00197,USR_0101,RES_012,ORD_000504,4,Very satisfying experience overall.
+REV_00198,USR_0058,RES_003,ORD_000453,2,Food was cold and bland.
+REV_00199,USR_0077,RES_042,ORD_001449,5,Super fast delivery and delicious taste.
+REV_00200,USR_0163,RES_029,ORD_000691,3,Food was okay but delivery took too long.
+REV_00201,USR_0242,RES_004,ORD_001382,4,"Solid packaging, arrived hot."
+REV_00202,USR_0168,RES_001,ORD_001102,5,Absolutely loved the packaging and taste.
+REV_00203,USR_0238,RES_042,ORD_001455,1,"Never ordering from here again, missing items."
+REV_00204,USR_0180,RES_020,ORD_000839,2,Disappointed with the quality this time.
+REV_00205,USR_0050,RES_012,ORD_000127,2,"Extremely late delivery, ruined the mood."
+REV_00206,USR_0155,RES_034,ORD_000633,3,"Decent experience, nothing extraordinary."
+REV_00207,USR_0249,RES_036,ORD_001484,5,Best meal of the week!
+REV_00208,USR_0044,RES_006,ORD_000832,2,Too oily and spicy to consume.
+REV_00209,USR_0221,RES_012,ORD_001271,5,Amazing food! Highly recommended.
+REV_00210,USR_0084,RES_023,ORD_000398,3,"Average taste, could be better."
+REV_00211,USR_0238,RES_016,ORD_001313,5,Absolutely loved the packaging and taste.
+REV_00212,USR_0120,RES_003,ORD_001470,3,"Decent experience, nothing extraordinary."
+REV_00213,USR_0184,RES_031,ORD_001497,4,Very satisfying experience overall.
+REV_00214,USR_0154,RES_001,ORD_001320,5,Best meal of the week!
+REV_00215,USR_0130,RES_026,ORD_000950,4,Very satisfying experience overall.
+REV_00216,USR_0232,RES_003,ORD_001490,3,Slightly overpriced for the quantity.
+REV_00217,USR_0127,RES_029,ORD_001074,4,Very satisfying experience overall.
+REV_00218,USR_0186,RES_016,ORD_000990,4,"Good portion size, food was tasty."
+REV_00219,USR_0236,RES_022,ORD_001407,5,Super fast delivery and delicious taste.
+REV_00220,USR_0126,RES_004,ORD_000406,4,"Really liked the flavours, will order again."
+REV_00221,USR_0195,RES_046,ORD_000842,5,Best meal of the week!
+REV_00222,USR_0108,RES_045,ORD_001132,4,Very satisfying experience overall.
+REV_00223,USR_0099,RES_041,ORD_001111,4,"Solid packaging, arrived hot."
+REV_00224,USR_0118,RES_001,ORD_001023,5,Amazing food! Highly recommended.
+REV_00225,USR_0095,RES_042,ORD_001293,5,Amazing food! Highly recommended.
+REV_00226,USR_0127,RES_034,ORD_000709,5,Best meal of the week!
+REV_00227,USR_0151,RES_024,ORD_000758,5,Amazing food! Highly recommended.
+REV_00228,USR_0163,RES_022,ORD_000459,4,"Solid packaging, arrived hot."
+REV_00229,USR_0206,RES_048,ORD_000915,4,Very satisfying experience overall.
+REV_00230,USR_0075,RES_003,ORD_000564,4,"Solid packaging, arrived hot."
+REV_00231,USR_0209,RES_014,ORD_001037,3,"Decent experience, nothing extraordinary."
+REV_00232,USR_0075,RES_024,ORD_000174,5,Amazing food! Highly recommended.
+REV_00233,USR_0058,RES_050,ORD_000241,5,Super fast delivery and delicious taste.
+REV_00234,USR_0050,RES_003,ORD_000151,5,Amazing food! Highly recommended.
+REV_00235,USR_0093,RES_049,ORD_000210,5,Amazing food! Highly recommended.
+REV_00236,USR_0249,RES_011,ORD_001451,5,Amazing food! Highly recommended.
+REV_00237,USR_0198,RES_007,ORD_001329,3,Food was okay but delivery took too long.
+REV_00238,USR_0190,RES_018,ORD_000646,5,Amazing food! Highly recommended.
+REV_00239,USR_0102,RES_034,ORD_001226,5,Super fast delivery and delicious taste.
+REV_00240,USR_0231,RES_023,ORD_001258,5,Best meal of the week!
+REV_00241,USR_0016,RES_005,ORD_000117,5,Best meal of the week!
+REV_00242,USR_0105,RES_031,ORD_000217,5,Super fast delivery and delicious taste.
+REV_00243,USR_0170,RES_017,ORD_000926,1,Stale food delivered.
+REV_00244,USR_0054,RES_007,ORD_001478,5,Best meal of the week!
+REV_00245,USR_0044,RES_016,ORD_001345,5,Best meal of the week!
+REV_00246,USR_0004,RES_042,ORD_000102,3,Slightly overpriced for the quantity.
+REV_00247,USR_0179,RES_026,ORD_000653,2,Food was cold and bland.
+REV_00248,USR_0207,RES_036,ORD_001472,4,"Really liked the flavours, will order again."
+REV_00249,USR_0116,RES_022,ORD_000272,2,Disappointed with the quality this time.
+REV_00250,USR_0010,RES_047,ORD_000072,5,Super fast delivery and delicious taste.
+REV_00251,USR_0101,RES_042,ORD_000510,4,Very satisfying experience overall.
+REV_00252,USR_0150,RES_047,ORD_001005,3,Slightly overpriced for the quantity.
+REV_00253,USR_0076,RES_013,ORD_000154,5,Amazing food! Highly recommended.
+REV_00254,USR_0087,RES_050,ORD_000727,5,Super fast delivery and delicious taste.
+REV_00255,USR_0083,RES_028,ORD_000169,4,Very satisfying experience overall.
+REV_00256,USR_0044,RES_016,ORD_000954,5,Absolutely loved the packaging and taste.
+REV_00257,USR_0092,RES_029,ORD_000341,2,Food was cold and bland.
+REV_00258,USR_0049,RES_017,ORD_000442,5,Super fast delivery and delicious taste.
+REV_00259,USR_0075,RES_013,ORD_000699,5,Amazing food! Highly recommended.
+REV_00260,USR_0154,RES_011,ORD_001466,4,"Solid packaging, arrived hot."
+REV_00261,USR_0037,RES_006,ORD_000566,5,Absolutely loved the packaging and taste.
+REV_00262,USR_0202,RES_027,ORD_000799,4,Very satisfying experience overall.
+REV_00263,USR_0077,RES_035,ORD_000133,3,"Decent experience, nothing extraordinary."
+REV_00264,USR_0063,RES_024,ORD_000568,5,Amazing food! Highly recommended.
+REV_00265,USR_0131,RES_032,ORD_000777,4,"Good portion size, food was tasty."
+REV_00266,USR_0175,RES_041,ORD_000847,2,Disappointed with the quality this time.
+REV_00267,USR_0112,RES_046,ORD_000870,1,Stale food delivered.
+REV_00268,USR_0202,RES_016,ORD_000944,4,Very satisfying experience overall.
+REV_00269,USR_0075,RES_013,ORD_000146,1,"Never ordering from here again, missing items."
+REV_00270,USR_0114,RES_036,ORD_001208,2,Food was cold and bland.
+REV_00271,USR_0127,RES_016,ORD_000743,4,"Really liked the flavours, will order again."
+REV_00272,USR_0011,RES_042,ORD_000879,4,"Solid packaging, arrived hot."
+REV_00273,USR_0159,RES_038,ORD_000644,4,Very satisfying experience overall.
+REV_00274,USR_0034,RES_013,ORD_001028,4,"Solid packaging, arrived hot."
+REV_00275,USR_0141,RES_004,ORD_000427,5,Amazing food! Highly recommended.
+REV_00276,USR_0014,RES_031,ORD_000192,4,"Really liked the flavours, will order again."
+REV_00277,USR_0127,RES_015,ORD_000890,5,Absolutely loved the packaging and taste.
+REV_00278,USR_0101,RES_014,ORD_001079,5,Super fast delivery and delicious taste.
+REV_00279,USR_0011,RES_012,ORD_000128,5,Absolutely loved the packaging and taste.
+REV_00280,USR_0050,RES_041,ORD_000781,5,Super fast delivery and delicious taste.
+REV_00281,USR_0108,RES_032,ORD_000312,5,Amazing food! Highly recommended.
+REV_00282,USR_0155,RES_015,ORD_000435,4,"Solid packaging, arrived hot."
+REV_00283,USR_0033,RES_049,ORD_001149,4,"Really liked the flavours, will order again."
+REV_00284,USR_0115,RES_027,ORD_000204,5,Absolutely loved the packaging and taste.
+REV_00285,USR_0159,RES_027,ORD_001362,5,Amazing food! Highly recommended.
+REV_00286,USR_0204,RES_021,ORD_000852,5,Absolutely loved the packaging and taste.
+REV_00287,USR_0134,RES_021,ORD_000643,4,"Good portion size, food was tasty."
+REV_00288,USR_0083,RES_029,ORD_000818,5,Super fast delivery and delicious taste.
+REV_00289,USR_0034,RES_050,ORD_000235,5,Super fast delivery and delicious taste.
+REV_00290,USR_0113,RES_004,ORD_000431,5,Absolutely loved the packaging and taste.
+REV_00291,USR_0090,RES_009,ORD_000295,5,Best meal of the week!
+REV_00292,USR_0214,RES_025,ORD_001092,4,Very satisfying experience overall.
+REV_00293,USR_0188,RES_030,ORD_001159,5,Amazing food! Highly recommended.
+REV_00294,USR_0212,RES_035,ORD_001200,1,Complete waste of money.
+REV_00295,USR_0217,RES_026,ORD_001097,5,Absolutely loved the packaging and taste.
+REV_00296,USR_0245,RES_048,ORD_001395,4,"Really liked the flavours, will order again."
+REV_00297,USR_0186,RES_029,ORD_000741,4,Very satisfying experience overall.
+REV_00298,USR_0234,RES_002,ORD_001175,4,"Good portion size, food was tasty."
+REV_00299,USR_0071,RES_023,ORD_000089,3,"Decent experience, nothing extraordinary."
+REV_00300,USR_0093,RES_048,ORD_000549,4,Very satisfying experience overall.
+REV_00301,USR_0021,RES_025,ORD_000054,5,Best meal of the week!
+REV_00302,USR_0013,RES_047,ORD_001059,5,Super fast delivery and delicious taste.
+REV_00303,USR_0057,RES_024,ORD_001038,4,"Really liked the flavours, will order again."
+REV_00304,USR_0163,RES_004,ORD_000722,2,Too oily and spicy to consume.
+REV_00305,USR_0222,RES_030,ORD_001072,4,"Really liked the flavours, will order again."
+REV_00306,USR_0180,RES_018,ORD_001460,4,"Good portion size, food was tasty."
+REV_00307,USR_0179,RES_017,ORD_001046,5,Amazing food! Highly recommended.
+REV_00308,USR_0126,RES_032,ORD_000718,5,Super fast delivery and delicious taste.
+REV_00309,USR_0139,RES_039,ORD_000343,5,Best meal of the week!
+REV_00310,USR_0071,RES_018,ORD_000897,4,"Good portion size, food was tasty."
+REV_00311,USR_0183,RES_031,ORD_000726,4,"Really liked the flavours, will order again."
+REV_00312,USR_0111,RES_038,ORD_000218,2,Too oily and spicy to consume.
+REV_00313,USR_0095,RES_003,ORD_000791,1,Horrible experience. Found a hair in my food!
+REV_00314,USR_0030,RES_012,ORD_000331,1,Horrible experience. Found a hair in my food!
+REV_00315,USR_0231,RES_007,ORD_001427,3,"Decent experience, nothing extraordinary."
+REV_00316,USR_0234,RES_015,ORD_001328,4,"Really liked the flavours, will order again."
+REV_00317,USR_0174,RES_013,ORD_000565,5,Amazing food! Highly recommended.
+REV_00318,USR_0190,RES_002,ORD_000793,4,"Good portion size, food was tasty."
+REV_00319,USR_0089,RES_028,ORD_001151,4,Very satisfying experience overall.
+REV_00320,USR_0057,RES_043,ORD_000511,5,Absolutely loved the packaging and taste.
+REV_00321,USR_0237,RES_023,ORD_001342,2,Too oily and spicy to consume.
+REV_00322,USR_0204,RES_040,ORD_000947,5,Best meal of the week!
+REV_00323,USR_0206,RES_001,ORD_001249,5,Super fast delivery and delicious taste.
+REV_00324,USR_0077,RES_042,ORD_000449,5,Absolutely loved the packaging and taste.
+REV_00325,USR_0185,RES_044,ORD_000711,4,"Good portion size, food was tasty."
+REV_00326,USR_0198,RES_004,ORD_001008,5,Super fast delivery and delicious taste.
+REV_00327,USR_0024,RES_018,ORD_000527,3,Slightly overpriced for the quantity.
+REV_00328,USR_0193,RES_015,ORD_001031,5,Best meal of the week!
+REV_00329,USR_0078,RES_006,ORD_000622,3,Food was okay but delivery took too long.
+REV_00330,USR_0248,RES_024,ORD_001441,3,"Average taste, could be better."
+REV_00331,USR_0151,RES_013,ORD_000443,5,Amazing food! Highly recommended.
+REV_00332,USR_0147,RES_017,ORD_001312,4,Very satisfying experience overall.
+REV_00333,USR_0235,RES_028,ORD_001198,5,Amazing food! Highly recommended.
+REV_00334,USR_0140,RES_034,ORD_000914,4,"Really liked the flavours, will order again."
+REV_00335,USR_0073,RES_042,ORD_000245,4,"Really liked the flavours, will order again."
+REV_00336,USR_0222,RES_003,ORD_001334,5,Amazing food! Highly recommended.
+REV_00337,USR_0215,RES_010,ORD_001354,2,Disappointed with the quality this time.
+REV_00338,USR_0071,RES_011,ORD_001032,4,"Good portion size, food was tasty."
+REV_00339,USR_0210,RES_011,ORD_001357,3,"Average taste, could be better."
+REV_00340,USR_0097,RES_026,ORD_000814,5,Best meal of the week!
+REV_00341,USR_0124,RES_038,ORD_000665,4,"Good portion size, food was tasty."
+REV_00342,USR_0125,RES_005,ORD_000300,5,Absolutely loved the packaging and taste.
+REV_00343,USR_0055,RES_034,ORD_000080,3,Food was okay but delivery took too long.
+REV_00344,USR_0213,RES_026,ORD_000980,5,Super fast delivery and delicious taste.
+REV_00345,USR_0097,RES_017,ORD_000165,5,Amazing food! Highly recommended.
+REV_00346,USR_0145,RES_050,ORD_000482,4,"Good portion size, food was tasty."
+REV_00347,USR_0008,RES_037,ORD_000108,5,Super fast delivery and delicious taste.
+REV_00348,USR_0025,RES_033,ORD_001364,4,"Good portion size, food was tasty."
+REV_00349,USR_0027,RES_044,ORD_000262,5,Amazing food! Highly recommended.
+REV_00350,USR_0043,RES_015,ORD_000230,3,Food was okay but delivery took too long.
+REV_00351,USR_0066,RES_048,ORD_000972,3,"Average taste, could be better."
+REV_00352,USR_0019,RES_046,ORD_000885,4,"Good portion size, food was tasty."
+REV_00353,USR_0173,RES_038,ORD_001260,3,"Decent experience, nothing extraordinary."
+REV_00354,USR_0035,RES_013,ORD_000265,4,"Really liked the flavours, will order again."
+REV_00355,USR_0011,RES_042,ORD_000040,4,Very satisfying experience overall.
+REV_00356,USR_0096,RES_023,ORD_000240,2,Food was cold and bland.
+REV_00357,USR_0125,RES_025,ORD_000517,5,Amazing food! Highly recommended.
+REV_00358,USR_0245,RES_004,ORD_001412,5,Super fast delivery and delicious taste.
+REV_00359,USR_0163,RES_030,ORD_001088,5,Best meal of the week!
+REV_00360,USR_0196,RES_040,ORD_000858,5,Super fast delivery and delicious taste.
+REV_00361,USR_0182,RES_004,ORD_001131,4,"Good portion size, food was tasty."
+REV_00362,USR_0129,RES_024,ORD_000821,4,"Solid packaging, arrived hot."
+REV_00363,USR_0210,RES_034,ORD_001496,4,"Solid packaging, arrived hot."
+REV_00364,USR_0050,RES_042,ORD_001022,5,Super fast delivery and delicious taste.
+REV_00365,USR_0007,RES_014,ORD_000905,4,Very satisfying experience overall.
+REV_00366,USR_0085,RES_028,ORD_000172,1,Horrible experience. Found a hair in my food!
+REV_00367,USR_0023,RES_020,ORD_000701,3,Food was okay but delivery took too long.
+REV_00368,USR_0017,RES_026,ORD_000113,5,Amazing food! Highly recommended.
+REV_00369,USR_0156,RES_013,ORD_000621,4,Very satisfying experience overall.
+REV_00370,USR_0224,RES_022,ORD_001400,4,"Really liked the flavours, will order again."
+REV_00371,USR_0005,RES_006,ORD_000531,5,Best meal of the week!
+REV_00372,USR_0053,RES_028,ORD_000107,1,Complete waste of money.
+REV_00373,USR_0137,RES_016,ORD_000801,5,Amazing food! Highly recommended.
+REV_00374,USR_0068,RES_005,ORD_000368,4,Very satisfying experience overall.
+REV_00375,USR_0081,RES_002,ORD_000448,5,Super fast delivery and delicious taste.
+REV_00376,USR_0203,RES_024,ORD_000970,4,"Good portion size, food was tasty."
+REV_00377,USR_0045,RES_025,ORD_000386,5,Amazing food! Highly recommended.
+REV_00378,USR_0226,RES_003,ORD_001298,5,Absolutely loved the packaging and taste.
+REV_00379,USR_0098,RES_009,ORD_001096,3,"Average taste, could be better."
+REV_00380,USR_0117,RES_041,ORD_000376,5,Best meal of the week!
+REV_00381,USR_0194,RES_014,ORD_001065,4,"Really liked the flavours, will order again."
+REV_00382,USR_0141,RES_004,ORD_000507,5,Super fast delivery and delicious taste.
+REV_00383,USR_0121,RES_022,ORD_000306,4,"Really liked the flavours, will order again."
+REV_00384,USR_0174,RES_013,ORD_001383,2,Too oily and spicy to consume.
+REV_00385,USR_0033,RES_023,ORD_000031,3,"Decent experience, nothing extraordinary."
+REV_00386,USR_0008,RES_025,ORD_000004,5,Best meal of the week!
+REV_00387,USR_0228,RES_034,ORD_001103,4,"Good portion size, food was tasty."
+REV_00388,USR_0027,RES_042,ORD_000221,4,Very satisfying experience overall.
+REV_00389,USR_0071,RES_016,ORD_000604,4,"Solid packaging, arrived hot."
+REV_00390,USR_0149,RES_027,ORD_000943,3,Food was okay but delivery took too long.
+REV_00391,USR_0194,RES_010,ORD_000658,3,"Decent experience, nothing extraordinary."
+REV_00392,USR_0223,RES_024,ORD_001221,5,Super fast delivery and delicious taste.
+REV_00393,USR_0112,RES_039,ORD_000330,4,"Really liked the flavours, will order again."
+REV_00394,USR_0014,RES_031,ORD_001190,3,Food was okay but delivery took too long.
+REV_00395,USR_0082,RES_006,ORD_000530,4,Very satisfying experience overall.
+REV_00396,USR_0075,RES_013,ORD_001375,4,"Really liked the flavours, will order again."
+REV_00397,USR_0017,RES_031,ORD_000037,4,"Good portion size, food was tasty."
+REV_00398,USR_0012,RES_026,ORD_000029,5,Absolutely loved the packaging and taste.
+REV_00399,USR_0139,RES_033,ORD_001432,5,Super fast delivery and delicious taste.
+REV_00400,USR_0100,RES_013,ORD_000602,5,Super fast delivery and delicious taste.
+REV_00401,USR_0184,RES_022,ORD_000610,2,Disappointed with the quality this time.
+REV_00402,USR_0158,RES_043,ORD_001135,5,Super fast delivery and delicious taste.
+REV_00403,USR_0072,RES_050,ORD_000355,5,Amazing food! Highly recommended.
+REV_00404,USR_0229,RES_021,ORD_001202,4,Very satisfying experience overall.
+REV_00405,USR_0133,RES_021,ORD_000413,5,Super fast delivery and delicious taste.
+REV_00406,USR_0219,RES_009,ORD_001418,5,Super fast delivery and delicious taste.
+REV_00407,USR_0185,RES_038,ORD_001457,4,"Solid packaging, arrived hot."
+REV_00408,USR_0017,RES_045,ORD_000233,5,Absolutely loved the packaging and taste.
+REV_00409,USR_0235,RES_046,ORD_001245,1,"Never ordering from here again, missing items."
+REV_00410,USR_0187,RES_046,ORD_001231,5,Absolutely loved the packaging and taste.
+REV_00411,USR_0018,RES_017,ORD_000899,5,Best meal of the week!
+REV_00412,USR_0230,RES_021,ORD_001487,5,Super fast delivery and delicious taste.
+REV_00413,USR_0087,RES_050,ORD_000126,4,Very satisfying experience overall.
+REV_00414,USR_0138,RES_025,ORD_000362,4,Very satisfying experience overall.
+REV_00415,USR_0077,RES_049,ORD_001233,3,Slightly overpriced for the quantity.
+REV_00416,USR_0083,RES_036,ORD_000279,5,Absolutely loved the packaging and taste.
+REV_00417,USR_0020,RES_012,ORD_000009,4,"Good portion size, food was tasty."
+REV_00418,USR_0189,RES_028,ORD_001002,3,"Decent experience, nothing extraordinary."
+REV_00419,USR_0045,RES_026,ORD_000119,4,"Really liked the flavours, will order again."
+REV_00420,USR_0109,RES_019,ORD_000963,4,"Really liked the flavours, will order again."
+REV_00421,USR_0178,RES_038,ORD_001144,5,Absolutely loved the packaging and taste.
+REV_00422,USR_0231,RES_046,ORD_001463,5,Best meal of the week!
+REV_00423,USR_0138,RES_019,ORD_000555,5,Absolutely loved the packaging and taste.
+REV_00424,USR_0208,RES_042,ORD_001183,5,Super fast delivery and delicious taste.
+REV_00425,USR_0161,RES_012,ORD_000734,3,Food was okay but delivery took too long.
+REV_00426,USR_0058,RES_050,ORD_000084,5,Super fast delivery and delicious taste.
+REV_00427,USR_0093,RES_049,ORD_001302,5,Best meal of the week!
+REV_00428,USR_0053,RES_027,ORD_000104,4,Very satisfying experience overall.
+REV_00429,USR_0217,RES_023,ORD_001493,2,"Extremely late delivery, ruined the mood."
+REV_00430,USR_0141,RES_050,ORD_000408,5,Best meal of the week!
+REV_00431,USR_0220,RES_043,ORD_001310,4,"Good portion size, food was tasty."
+REV_00432,USR_0176,RES_034,ORD_000776,4,"Good portion size, food was tasty."
+REV_00433,USR_0099,RES_006,ORD_000545,1,Horrible experience. Found a hair in my food!
+REV_00434,USR_0041,RES_050,ORD_001206,5,Super fast delivery and delicious taste.
+REV_00435,USR_0250,RES_039,ORD_001498,5,Absolutely loved the packaging and taste.
+REV_00436,USR_0189,RES_028,ORD_000683,1,Stale food delivered.
+REV_00437,USR_0161,RES_017,ORD_001428,4,Very satisfying experience overall.
+REV_00438,USR_0219,RES_031,ORD_001436,4,"Solid packaging, arrived hot."
+REV_00439,USR_0227,RES_035,ORD_001408,4,Very satisfying experience overall.
+REV_00440,USR_0206,RES_025,ORD_001325,2,Disappointed with the quality this time.
+REV_00441,USR_0093,RES_014,ORD_001033,5,Amazing food! Highly recommended.
+REV_00442,USR_0094,RES_045,ORD_000706,2,"Extremely late delivery, ruined the mood."
+REV_00443,USR_0224,RES_022,ORD_001048,4,"Good portion size, food was tasty."
+REV_00444,USR_0223,RES_043,ORD_001230,4,"Really liked the flavours, will order again."
+REV_00445,USR_0117,RES_049,ORD_000353,5,Absolutely loved the packaging and taste.
+REV_00446,USR_0031,RES_034,ORD_000053,2,Disappointed with the quality this time.
+REV_00447,USR_0031,RES_044,ORD_000022,5,Super fast delivery and delicious taste.
+REV_00448,USR_0119,RES_013,ORD_001141,5,Amazing food! Highly recommended.
+REV_00449,USR_0090,RES_029,ORD_000142,4,Very satisfying experience overall.
+REV_00450,USR_0019,RES_046,ORD_000728,5,Amazing food! Highly recommended.

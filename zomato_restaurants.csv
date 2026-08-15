@@ -1,0 +1,51 @@
+restaurant_id,restaurant_name,city,cuisine_type,average_cost_for_two,rating
+RES_001,Tandoori Dine,Hyderabad,Fast Food,1500,3.8
+RES_002,Desi Hub,Ahmedabad,Continental,2000,4.5
+RES_003,Green Palace,Bangalore,Biryani,1200,4.2
+RES_004,Cafe Palace,Hyderabad,Chinese,1500,3.2
+RES_005,Tandoori Hub,Ahmedabad,Italian,500,3.7
+RES_006,Tandoori Platter,Pune,Chinese,1500,3.4
+RES_007,Tandoori Adda,Ahmedabad,Continental,350,3.9
+RES_008,Spicy Platter,Pune,Fast Food,2000,3.4
+RES_009,Royal Lounge,Mumbai,Chinese,1500,3.3
+RES_010,Green Tadka,Ahmedabad,Fast Food,1000,4.0
+RES_011,Desi Palace,Pune,Street Food,200,3.8
+RES_012,The Hungry Kitchen,Bangalore,Fast Food,1200,4.2
+RES_013,Royal Tadka,Delhi,Continental,700,4.0
+RES_014,Royal Hub,Ahmedabad,South Indian,2000,3.6
+RES_015,Cafe Kitchen,Chennai,Street Food,2000,4.2
+RES_016,Cafe Court,Pune,South Indian,700,4.4
+RES_017,Royal Platter,Kolkata,Chinese,1200,4.7
+RES_018,Cafe Tadka,Pune,Italian,350,4.3
+RES_019,Desi Tadka,Ahmedabad,Biryani,1200,3.7
+RES_020,Golden Adda,Pune,Continental,1200,4.3
+RES_021,Urban Adda,Hyderabad,South Indian,200,3.3
+RES_022,Tandoori Tadka,Kolkata,Biryani,1500,4.9
+RES_023,Spicy Tadka,Ahmedabad,North Indian,1000,4.6
+RES_024,Cafe Adda,Delhi,Fast Food,700,3.9
+RES_025,Urban Court,Hyderabad,South Indian,350,3.4
+RES_026,Desi Bites,Kolkata,Street Food,2000,4.4
+RES_027,Tandoori Lounge,Chennai,Continental,350,4.0
+RES_028,Cafe Dine,Pune,Fast Food,700,4.7
+RES_029,Spicy Lounge,Pune,Biryani,200,3.7
+RES_030,Green Bites,Mumbai,Continental,200,3.5
+RES_031,Absolute Tadka,Kolkata,South Indian,1200,3.4
+RES_032,Desi Court,Pune,Italian,700,4.3
+RES_033,Spicy Hub,Mumbai,Street Food,500,4.2
+RES_034,Desi Kitchen,Mumbai,North Indian,700,4.4
+RES_035,Cafe Lounge,Ahmedabad,Continental,350,3.8
+RES_036,Green Hub,Pune,Italian,700,4.2
+RES_037,Absolute Bites,Hyderabad,South Indian,700,3.7
+RES_038,The Hungry Palace,Chennai,Street Food,700,4.1
+RES_039,Spicy Dine,Hyderabad,Fast Food,1200,3.9
+RES_040,Golden Bites,Hyderabad,Biryani,500,4.5
+RES_041,Green Kitchen,Pune,South Indian,200,3.4
+RES_042,Absolute Adda,Bangalore,Chinese,1000,4.3
+RES_043,Cafe Bites,Delhi,North Indian,500,4.7
+RES_044,Green Platter,Mumbai,North Indian,500,4.1
+RES_045,Desi Lounge,Pune,Fast Food,1000,4.7
+RES_046,Royal Palace,Ahmedabad,Street Food,500,3.9
+RES_047,The Hungry Tadka,Mumbai,South Indian,350,4.7
+RES_048,The Hungry Bites,Chennai,South Indian,200,3.9
+RES_049,The Hungry Platter,Bangalore,Italian,500,4.6
+RES_050,Absolute Palace,Delhi,Chinese,200,3.9
